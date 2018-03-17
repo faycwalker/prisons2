@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Alabama\t4841164\t42919\t0.89%\t32.806671\t-86.79113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Alaska\t736855\t4206\t0.57%\t61.370716\t-152.404419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Arizona\t6728577\t55590\t0.83%\t33.729759\t-111.431221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Arkansas\t2968472\t27827\t0.94%\t34.969704\t-92.373123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "California\t38654206\t282747\t0.73%\t36.116203\t-119.681564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Colorado\t5359295\t43462\t0.81%\t39.059811\t-105.311104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Connecticut\t3588570\t21758\t0.61%\t41.597782\t-72.755371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Delaware\t934695\t6781\t0.73%\t39.318523\t-75.507141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Florida\t19934451\t175836\t0.88%\t27.766279\t-81.686783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Georgia\t10099320\t105963\t1.05%\t33.040619\t-83.643074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Hawaii\t1413673\t5449\t0.39%\t21.094318\t-157.498337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Idaho\t1635483\t9830\t0.60%\t44.240459\t-114.478828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Illinois\t12851684\t71093\t0.55%\t40.349457\t-88.986137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Indiana\t6589578\t46688\t0.71%\t39.849426\t-86.258278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Iowa\t3106589\t13943\t0.45%\t42.011539\t-93.210526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Kansas\t2898292\t20564\t0.71%\t38.5266\t-96.726486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Kentucky\t4411989\t49017\t1.11%\t37.66814\t-84.670067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Louisiana\t4645670\t57212\t1.23%\t31.169546\t-91.867805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Maine\t1329923\t3610\t0.27%\t44.693947\t-69.381927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Maryland\t5959902\t38609\t0.65%\t39.063946\t-76.802101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Massachusetts\t6742143\t25904\t0.38%\t42.230171\t-71.530106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Michigan\t9909600\t71328\t0.72%\t43.326618\t-84.536095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Minnesota\t5450868\t24872\t0.46%\t45.694454\t-93.900192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Mississippi\t2989192\t37381\t1.25%\t32.741646\t-89.678696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Missouri\t6059651\t43810\t0.72%\t38.456085\t-92.288368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Montana\t1023391\t4899\t0.48%\t46.921925\t-110.454353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Nebraska\t1881259\t7064\t0.38%\t41.12537\t-98.268082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Nevada\t2839172\t17514\t0.62%\t38.313515\t-117.055374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "New Hampshire\t1327503\t4409\t0.33%\t43.452492\t-71.563896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "New Jersey\t8915456\t56312\t0.63%\t40.298904\t-74.521011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "New Mexico\t2082669\t17206\t0.83%\t34.840515\t-106.248482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "New York\t19697457\t108139\t0.55%\t42.165726\t-74.948051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "North Carolina\t9940828\t65982\t0.66%\t35.630066\t-79.806419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "North Dakota\t736162\t2348\t0.32%\t47.528912\t-99.784012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Ohio\t11586941\t71383\t0.62%\t40.388783\t-82.764915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Oklahoma\t3875589\t40597\t1.05%\t35.565342\t-96.928917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Oregon\t3982267\t6967\t0.17%\t44.572021\t-122.070938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Pennsylvania\t12783977\t106378\t0.83%\t40.590752\t-77.209755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Rhode Island\t1054491\t3414\t0.32%\t41.680893\t-71.51178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "South Carolina\t4834605\t48801\t1.01%\t33.856892\t-80.945007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "South Dakota\t851058\t6723\t0.79%\t44.299782\t-99.438828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Tennessee\t6548009\t47035\t0.72%\t35.747845\t-86.692345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Texas\t26956435\t280922\t1.04%\t31.054487\t-97.563461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Utah\t2948427\t12009\t0.41%\t40.150032\t-111.862434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Vermont\t626249\t1596\t0.25%\t44.045876\t-72.710686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Virginia\t8310301\t69420\t0.84%\t37.769337\t-78.169968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Washington\t7073146\t30753\t0.43%\t47.400902\t-121.490494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "West Virginia\t1846092\t24108\t1.31%\t38.491226\t-80.954453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Wisconsin\t5754798\t39339\t0.68%\t44.268543\t-89.616508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "STATE\tTotalPop\tPrison Population\tPercent Imprisoned\tLatitude\tLongitude": "Wyoming\t583029\t3005\t0.52%\t42.755966\t-107.30249"
+      }
+    }
+  ]
+}
