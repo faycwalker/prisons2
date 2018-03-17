@@ -1,0 +1,705 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Alabama",
+    "TotalPop":4841164,
+    "Prison Population":42919,
+    "Percent Imprisoned":"0.89%",
+    "Latitude":32.806671
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Alaska",
+    "TotalPop":736855,
+    "Prison Population":4206,
+    "Percent Imprisoned":"0.57%",
+    "Latitude":61.370716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Arizona",
+    "TotalPop":6728577,
+    "Prison Population":55590,
+    "Percent Imprisoned":"0.83%",
+    "Latitude":33.729759
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Arkansas",
+    "TotalPop":2968472,
+    "Prison Population":27827,
+    "Percent Imprisoned":"0.94%",
+    "Latitude":34.969704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"California",
+    "TotalPop":38654206,
+    "Prison Population":282747,
+    "Percent Imprisoned":"0.73%",
+    "Latitude":36.116203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Colorado",
+    "TotalPop":5359295,
+    "Prison Population":43462,
+    "Percent Imprisoned":"0.81%",
+    "Latitude":39.059811
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Connecticut",
+    "TotalPop":3588570,
+    "Prison Population":21758,
+    "Percent Imprisoned":"0.61%",
+    "Latitude":41.597782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Delaware",
+    "TotalPop":934695,
+    "Prison Population":6781,
+    "Percent Imprisoned":"0.73%",
+    "Latitude":39.318523
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Florida",
+    "TotalPop":19934451,
+    "Prison Population":175836,
+    "Percent Imprisoned":"0.88%",
+    "Latitude":27.766279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Georgia",
+    "TotalPop":10099320,
+    "Prison Population":105963,
+    "Percent Imprisoned":"1.05%",
+    "Latitude":33.040619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Hawaii",
+    "TotalPop":1413673,
+    "Prison Population":5449,
+    "Percent Imprisoned":"0.39%",
+    "Latitude":21.094318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Idaho",
+    "TotalPop":1635483,
+    "Prison Population":9830,
+    "Percent Imprisoned":"0.60%",
+    "Latitude":44.240459
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Illinois",
+    "TotalPop":12851684,
+    "Prison Population":71093,
+    "Percent Imprisoned":"0.55%",
+    "Latitude":40.349457
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Indiana",
+    "TotalPop":6589578,
+    "Prison Population":46688,
+    "Percent Imprisoned":"0.71%",
+    "Latitude":39.849426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Iowa",
+    "TotalPop":3106589,
+    "Prison Population":13943,
+    "Percent Imprisoned":"0.45%",
+    "Latitude":42.011539
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Kansas",
+    "TotalPop":2898292,
+    "Prison Population":20564,
+    "Percent Imprisoned":"0.71%",
+    "Latitude":38.5266
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Kentucky",
+    "TotalPop":4411989,
+    "Prison Population":49017,
+    "Percent Imprisoned":"1.11%",
+    "Latitude":37.66814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Louisiana",
+    "TotalPop":4645670,
+    "Prison Population":57212,
+    "Percent Imprisoned":"1.23%",
+    "Latitude":31.169546
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Maine",
+    "TotalPop":1329923,
+    "Prison Population":3610,
+    "Percent Imprisoned":"0.27%",
+    "Latitude":44.693947
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Maryland",
+    "TotalPop":5959902,
+    "Prison Population":38609,
+    "Percent Imprisoned":"0.65%",
+    "Latitude":39.063946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Massachusetts",
+    "TotalPop":6742143,
+    "Prison Population":25904,
+    "Percent Imprisoned":"0.38%",
+    "Latitude":42.230171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Michigan",
+    "TotalPop":9909600,
+    "Prison Population":71328,
+    "Percent Imprisoned":"0.72%",
+    "Latitude":43.326618
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Minnesota",
+    "TotalPop":5450868,
+    "Prison Population":24872,
+    "Percent Imprisoned":"0.46%",
+    "Latitude":45.694454
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Mississippi",
+    "TotalPop":2989192,
+    "Prison Population":37381,
+    "Percent Imprisoned":"1.25%",
+    "Latitude":32.741646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Missouri",
+    "TotalPop":6059651,
+    "Prison Population":43810,
+    "Percent Imprisoned":"0.72%",
+    "Latitude":38.456085
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Montana",
+    "TotalPop":1023391,
+    "Prison Population":4899,
+    "Percent Imprisoned":"0.48%",
+    "Latitude":46.921925
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Nebraska",
+    "TotalPop":1881259,
+    "Prison Population":7064,
+    "Percent Imprisoned":"0.38%",
+    "Latitude":41.12537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Nevada",
+    "TotalPop":2839172,
+    "Prison Population":17514,
+    "Percent Imprisoned":"0.62%",
+    "Latitude":38.313515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"New Hampshire",
+    "TotalPop":1327503,
+    "Prison Population":4409,
+    "Percent Imprisoned":"0.33%",
+    "Latitude":43.452492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"New Jersey",
+    "TotalPop":8915456,
+    "Prison Population":56312,
+    "Percent Imprisoned":"0.63%",
+    "Latitude":40.298904
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"New Mexico",
+    "TotalPop":2082669,
+    "Prison Population":17206,
+    "Percent Imprisoned":"0.83%",
+    "Latitude":34.840515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"New York",
+    "TotalPop":19697457,
+    "Prison Population":108139,
+    "Percent Imprisoned":"0.55%",
+    "Latitude":42.165726
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"North Carolina",
+    "TotalPop":9940828,
+    "Prison Population":65982,
+    "Percent Imprisoned":"0.66%",
+    "Latitude":35.630066
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"North Dakota",
+    "TotalPop":736162,
+    "Prison Population":2348,
+    "Percent Imprisoned":"0.32%",
+    "Latitude":47.528912
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Ohio",
+    "TotalPop":11586941,
+    "Prison Population":71383,
+    "Percent Imprisoned":"0.62%",
+    "Latitude":40.388783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Oklahoma",
+    "TotalPop":3875589,
+    "Prison Population":40597,
+    "Percent Imprisoned":"1.05%",
+    "Latitude":35.565342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Oregon",
+    "TotalPop":3982267,
+    "Prison Population":6967,
+    "Percent Imprisoned":"0.17%",
+    "Latitude":44.572021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Pennsylvania",
+    "TotalPop":12783977,
+    "Prison Population":106378,
+    "Percent Imprisoned":"0.83%",
+    "Latitude":40.590752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Rhode Island",
+    "TotalPop":1054491,
+    "Prison Population":3414,
+    "Percent Imprisoned":"0.32%",
+    "Latitude":41.680893
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"South Carolina",
+    "TotalPop":4834605,
+    "Prison Population":48801,
+    "Percent Imprisoned":"1.01%",
+    "Latitude":33.856892
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"South Dakota",
+    "TotalPop":851058,
+    "Prison Population":6723,
+    "Percent Imprisoned":"0.79%",
+    "Latitude":44.299782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Tennessee",
+    "TotalPop":6548009,
+    "Prison Population":47035,
+    "Percent Imprisoned":"0.72%",
+    "Latitude":35.747845
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Texas",
+    "TotalPop":26956435,
+    "Prison Population":280922,
+    "Percent Imprisoned":"1.04%",
+    "Latitude":31.054487
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Utah",
+    "TotalPop":2948427,
+    "Prison Population":12009,
+    "Percent Imprisoned":"0.41%",
+    "Latitude":40.150032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Vermont",
+    "TotalPop":626249,
+    "Prison Population":1596,
+    "Percent Imprisoned":"0.25%",
+    "Latitude":44.045876
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Virginia",
+    "TotalPop":8310301,
+    "Prison Population":69420,
+    "Percent Imprisoned":"0.84%",
+    "Latitude":37.769337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Washington",
+    "TotalPop":7073146,
+    "Prison Population":30753,
+    "Percent Imprisoned":"0.43%",
+    "Latitude":47.400902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"West Virginia",
+    "TotalPop":1846092,
+    "Prison Population":24108,
+    "Percent Imprisoned":"1.31%",
+    "Latitude":38.491226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Wisconsin",
+    "TotalPop":5754798,
+    "Prison Population":39339,
+    "Percent Imprisoned":"0.68%",
+    "Latitude":44.268543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"Wyoming",
+    "TotalPop":583029,
+    "Prison Population":3005,
+    "Percent Imprisoned":"0.52%",
+    "Latitude":42.755966
+    }
+  }
+]
+}
