@@ -13,7 +13,8 @@
     "PRISONPOP":42919,
     "PERPRISON":"0.89%",
     "ECVOTES":9,
-    "VEP":3601361
+    "VEP":3601361,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -28,7 +29,8 @@
     "PRISONPOP":4206,
     "PERPRISON":"0.57%",
     "ECVOTES":3,
-    "VEP":519849
+    "VEP":519849,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -43,7 +45,8 @@
     "PRISONPOP":55590,
     "PERPRISON":"0.83%",
     "ECVOTES":11,
-    "VEP":4734313
+    "VEP":4734313,
+    "VOTEMARGIN":"3.90%"
     }
   },
   {
@@ -58,7 +61,8 @@
     "PRISONPOP":27827,
     "PERPRISON":"0.94%",
     "ECVOTES":6,
-    "VEP":2142571
+    "VEP":2142571,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -73,7 +77,8 @@
     "PRISONPOP":282747,
     "PERPRISON":"0.73%",
     "ECVOTES":55,
-    "VEP":25017408
+    "VEP":25017408,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -88,7 +93,8 @@
     "PRISONPOP":43462,
     "PERPRISON":"0.81%",
     "ECVOTES":9,
-    "VEP":3966297
+    "VEP":3966297,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -103,7 +109,8 @@
     "PRISONPOP":21758,
     "PERPRISON":"0.61%",
     "ECVOTES":7,
-    "VEP":2561555
+    "VEP":2561555,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -118,7 +125,8 @@
     "PRISONPOP":6781,
     "PERPRISON":"0.73%",
     "ECVOTES":3,
-    "VEP":689125
+    "VEP":689125,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -133,7 +141,8 @@
     "PRISONPOP":175836,
     "PERPRISON":"0.88%",
     "ECVOTES":29,
-    "VEP":14572210
+    "VEP":14572210,
+    "VOTEMARGIN":"1.20%"
     }
   },
   {
@@ -148,7 +157,8 @@
     "PRISONPOP":105963,
     "PERPRISON":"1.05%",
     "ECVOTES":16,
-    "VEP":6955436
+    "VEP":6955436,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -163,7 +173,8 @@
     "PRISONPOP":5449,
     "PERPRISON":"0.39%",
     "ECVOTES":4,
-    "VEP":1016971
+    "VEP":1016971,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -178,7 +189,8 @@
     "PRISONPOP":9830,
     "PERPRISON":"0.60%",
     "ECVOTES":4,
-    "VEP":1167200
+    "VEP":1167200,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -193,7 +205,8 @@
     "PRISONPOP":71093,
     "PERPRISON":"0.55%",
     "ECVOTES":20,
-    "VEP":8943045
+    "VEP":8943045,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -208,7 +221,8 @@
     "PRISONPOP":46688,
     "PERPRISON":"0.71%",
     "ECVOTES":11,
-    "VEP":4852657
+    "VEP":4852657,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -223,7 +237,8 @@
     "PRISONPOP":13943,
     "PERPRISON":"0.45%",
     "ECVOTES":6,
-    "VEP":2290215
+    "VEP":2290215,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -238,7 +253,8 @@
     "PRISONPOP":20564,
     "PERPRISON":"0.71%",
     "ECVOTES":6,
-    "VEP":2051750
+    "VEP":2051750,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -253,7 +269,8 @@
     "PRISONPOP":49017,
     "PERPRISON":"1.11%",
     "ECVOTES":8,
-    "VEP":3276651
+    "VEP":3276651,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -268,7 +285,8 @@
     "PRISONPOP":57212,
     "PERPRISON":"1.23%",
     "ECVOTES":8,
-    "VEP":3380951
+    "VEP":3380951,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -283,7 +301,8 @@
     "PRISONPOP":3610,
     "PERPRISON":"0.27%",
     "ECVOTES":4,
-    "VEP":1060905
+    "VEP":1060905,
+    "VOTEMARGIN":"2.70%"
     }
   },
   {
@@ -298,7 +317,8 @@
     "PRISONPOP":38609,
     "PERPRISON":"0.65%",
     "ECVOTES":10,
-    "VEP":4176484
+    "VEP":4176484,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -313,7 +333,8 @@
     "PRISONPOP":25904,
     "PERPRISON":"0.38%",
     "ECVOTES":11,
-    "VEP":4947241
+    "VEP":4947241,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -328,7 +349,8 @@
     "PRISONPOP":71328,
     "PERPRISON":"0.72%",
     "ECVOTES":16,
-    "VEP":7423233
+    "VEP":7423233,
+    "VOTEMARGIN":"0.30%"
     }
   },
   {
@@ -343,7 +365,8 @@
     "PRISONPOP":24872,
     "PERPRISON":"0.46%",
     "ECVOTES":10,
-    "VEP":3966155
+    "VEP":3966155,
+    "VOTEMARGIN":"1.50%"
     }
   },
   {
@@ -358,7 +381,8 @@
     "PRISONPOP":37381,
     "PERPRISON":"1.25%",
     "ECVOTES":6,
-    "VEP":2176312
+    "VEP":2176312,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -373,7 +397,8 @@
     "PRISONPOP":43810,
     "PERPRISON":"0.72%",
     "ECVOTES":10,
-    "VEP":4511812
+    "VEP":4511812,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -388,7 +413,8 @@
     "PRISONPOP":4899,
     "PERPRISON":"0.48%",
     "ECVOTES":3,
-    "VEP":804381
+    "VEP":804381,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -403,7 +429,8 @@
     "PRISONPOP":7064,
     "PERPRISON":"0.38%",
     "ECVOTES":5,
-    "VEP":1349903
+    "VEP":1349903,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -418,7 +445,8 @@
     "PRISONPOP":17514,
     "PERPRISON":"0.62%",
     "ECVOTES":6,
-    "VEP":1964097
+    "VEP":1964097,
+    "VOTEMARGIN":"2.40%"
     }
   },
   {
@@ -433,7 +461,8 @@
     "PRISONPOP":4409,
     "PERPRISON":"0.33%",
     "ECVOTES":4,
-    "VEP":1042102
+    "VEP":1042102,
+    "VOTEMARGIN":"0.40%"
     }
   },
   {
@@ -448,7 +477,8 @@
     "PRISONPOP":56312,
     "PERPRISON":"0.63%",
     "ECVOTES":14,
-    "VEP":6042792
+    "VEP":6042792,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -463,7 +493,8 @@
     "PRISONPOP":17206,
     "PERPRISON":"0.83%",
     "ECVOTES":5,
-    "VEP":1456551
+    "VEP":1456551,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -478,7 +509,8 @@
     "PRISONPOP":108139,
     "PERPRISON":"0.55%",
     "ECVOTES":29,
-    "VEP":13591250
+    "VEP":13591250,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -493,7 +525,8 @@
     "PRISONPOP":65982,
     "PERPRISON":"0.66%",
     "ECVOTES":15,
-    "VEP":7318442
+    "VEP":7318442,
+    "VOTEMARGIN":"3.80%"
     }
   },
   {
@@ -508,7 +541,8 @@
     "PRISONPOP":2348,
     "PERPRISON":"0.32%",
     "ECVOTES":3,
-    "VEP":565031
+    "VEP":565031,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -523,7 +557,8 @@
     "PRISONPOP":71383,
     "PERPRISON":"0.62%",
     "ECVOTES":18,
-    "VEP":8737173
+    "VEP":8737173,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -538,7 +573,8 @@
     "PRISONPOP":40597,
     "PERPRISON":"1.05%",
     "ECVOTES":7,
-    "VEP":2773970
+    "VEP":2773970,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -553,7 +589,8 @@
     "PRISONPOP":6967,
     "PERPRISON":"0.17%",
     "ECVOTES":7,
-    "VEP":3012502
+    "VEP":3012502,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -568,7 +605,8 @@
     "PRISONPOP":106378,
     "PERPRISON":"0.83%",
     "ECVOTES":20,
-    "VEP":9701644
+    "VEP":9701644,
+    "VOTEMARGIN":"1.20%"
     }
   },
   {
@@ -583,7 +621,8 @@
     "PRISONPOP":3414,
     "PERPRISON":"0.32%",
     "ECVOTES":4,
-    "VEP":786033
+    "VEP":786033,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -598,7 +637,8 @@
     "PRISONPOP":48801,
     "PERPRISON":"1.01%",
     "ECVOTES":9,
-    "VEP":3706769
+    "VEP":3706769,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -613,7 +653,8 @@
     "PRISONPOP":6723,
     "PERPRISON":"0.79%",
     "ECVOTES":3,
-    "VEP":632989
+    "VEP":632989,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -628,7 +669,8 @@
     "PRISONPOP":47035,
     "PERPRISON":"0.72%",
     "ECVOTES":11,
-    "VEP":4899384
+    "VEP":4899384,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -643,7 +685,8 @@
     "PRISONPOP":280922,
     "PERPRISON":"1.04%",
     "ECVOTES":38,
-    "VEP":17396296
+    "VEP":17396296,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -658,7 +701,8 @@
     "PRISONPOP":12009,
     "PERPRISON":"0.41%",
     "ECVOTES":6,
-    "VEP":1995987
+    "VEP":1995987,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -673,7 +717,8 @@
     "PRISONPOP":1596,
     "PERPRISON":"0.25%",
     "ECVOTES":3,
-    "VEP":494879
+    "VEP":494879,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -688,7 +733,8 @@
     "PRISONPOP":69420,
     "PERPRISON":"0.84%",
     "ECVOTES":13,
-    "VEP":6027262
+    "VEP":6027262,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -703,7 +749,8 @@
     "PRISONPOP":30753,
     "PERPRISON":"0.43%",
     "ECVOTES":12,
-    "VEP":5121782
+    "VEP":5121782,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -718,7 +765,8 @@
     "PRISONPOP":24108,
     "PERPRISON":"1.31%",
     "ECVOTES":5,
-    "VEP":1425962
+    "VEP":1425962,
+    "VOTEMARGIN":""
     }
   },
   {
@@ -733,7 +781,8 @@
     "PRISONPOP":39339,
     "PERPRISON":"0.68%",
     "ECVOTES":10,
-    "VEP":4288320
+    "VEP":4288320,
+    "VOTEMARGIN":"1%"
     }
   },
   {
@@ -748,7 +797,24 @@
     "PRISONPOP":3005,
     "PERPRISON":"0.52%",
     "ECVOTES":3,
-    "VEP":428283
+    "VEP":428283,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"",
+    "TOTALPOP":317899153,
+    "PRISONPOP":2362722,
+    "PERPRISON":"0.74%",
+    "ECVOTES":null,
+    "VEP":null,
+    "VOTEMARGIN":""
     }
   }
 ]
