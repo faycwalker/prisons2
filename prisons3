@@ -1,0 +1,821 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.79113,32.806671 ]
+    },
+    "properties": {
+    "STATE":"Alabama",
+    "TOTALPOP":4841164,
+    "PRISONPOP":42919,
+    "PERPRISON":"0.89%",
+    "ECVOTES":9,
+    "VEP":3601361,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.404419,61.370716 ]
+    },
+    "properties": {
+    "STATE":"Alaska",
+    "TOTALPOP":736855,
+    "PRISONPOP":4206,
+    "PERPRISON":"0.57%",
+    "ECVOTES":3,
+    "VEP":519849,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.431221,33.729759 ]
+    },
+    "properties": {
+    "STATE":"Arizona",
+    "TOTALPOP":6728577,
+    "PRISONPOP":55590,
+    "PERPRISON":"0.83%",
+    "ECVOTES":11,
+    "VEP":4734313,
+    "VOTEMARGIN":"3.90%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.373123,34.969704 ]
+    },
+    "properties": {
+    "STATE":"Arkansas",
+    "TOTALPOP":2968472,
+    "PRISONPOP":27827,
+    "PERPRISON":"0.94%",
+    "ECVOTES":6,
+    "VEP":2142571,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.681564,36.116203 ]
+    },
+    "properties": {
+    "STATE":"California",
+    "TOTALPOP":38654206,
+    "PRISONPOP":282747,
+    "PERPRISON":"0.73%",
+    "ECVOTES":55,
+    "VEP":25017408,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.311104,39.059811 ]
+    },
+    "properties": {
+    "STATE":"Colorado",
+    "TOTALPOP":5359295,
+    "PRISONPOP":43462,
+    "PERPRISON":"0.81%",
+    "ECVOTES":9,
+    "VEP":3966297,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.755371,41.597782 ]
+    },
+    "properties": {
+    "STATE":"Connecticut",
+    "TOTALPOP":3588570,
+    "PRISONPOP":21758,
+    "PERPRISON":"0.61%",
+    "ECVOTES":7,
+    "VEP":2561555,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.507141,39.318523 ]
+    },
+    "properties": {
+    "STATE":"Delaware",
+    "TOTALPOP":934695,
+    "PRISONPOP":6781,
+    "PERPRISON":"0.73%",
+    "ECVOTES":3,
+    "VEP":689125,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.686783,27.766279 ]
+    },
+    "properties": {
+    "STATE":"Florida",
+    "TOTALPOP":19934451,
+    "PRISONPOP":175836,
+    "PERPRISON":"0.88%",
+    "ECVOTES":29,
+    "VEP":14572210,
+    "VOTEMARGIN":"1.20%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.643074,33.040619 ]
+    },
+    "properties": {
+    "STATE":"Georgia",
+    "TOTALPOP":10099320,
+    "PRISONPOP":105963,
+    "PERPRISON":"1.05%",
+    "ECVOTES":16,
+    "VEP":6955436,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.498337,21.094318 ]
+    },
+    "properties": {
+    "STATE":"Hawaii",
+    "TOTALPOP":1413673,
+    "PRISONPOP":5449,
+    "PERPRISON":"0.39%",
+    "ECVOTES":4,
+    "VEP":1016971,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.478828,44.240459 ]
+    },
+    "properties": {
+    "STATE":"Idaho",
+    "TOTALPOP":1635483,
+    "PRISONPOP":9830,
+    "PERPRISON":"0.60%",
+    "ECVOTES":4,
+    "VEP":1167200,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.986137,40.349457 ]
+    },
+    "properties": {
+    "STATE":"Illinois",
+    "TOTALPOP":12851684,
+    "PRISONPOP":71093,
+    "PERPRISON":"0.55%",
+    "ECVOTES":20,
+    "VEP":8943045,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.258278,39.849426 ]
+    },
+    "properties": {
+    "STATE":"Indiana",
+    "TOTALPOP":6589578,
+    "PRISONPOP":46688,
+    "PERPRISON":"0.71%",
+    "ECVOTES":11,
+    "VEP":4852657,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.210526,42.011539 ]
+    },
+    "properties": {
+    "STATE":"Iowa",
+    "TOTALPOP":3106589,
+    "PRISONPOP":13943,
+    "PERPRISON":"0.45%",
+    "ECVOTES":6,
+    "VEP":2290215,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.726486,38.5266 ]
+    },
+    "properties": {
+    "STATE":"Kansas",
+    "TOTALPOP":2898292,
+    "PRISONPOP":20564,
+    "PERPRISON":"0.71%",
+    "ECVOTES":6,
+    "VEP":2051750,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.670067,37.66814 ]
+    },
+    "properties": {
+    "STATE":"Kentucky",
+    "TOTALPOP":4411989,
+    "PRISONPOP":49017,
+    "PERPRISON":"1.11%",
+    "ECVOTES":8,
+    "VEP":3276651,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.867805,31.169546 ]
+    },
+    "properties": {
+    "STATE":"Louisiana",
+    "TOTALPOP":4645670,
+    "PRISONPOP":57212,
+    "PERPRISON":"1.23%",
+    "ECVOTES":8,
+    "VEP":3380951,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.381927,44.693947 ]
+    },
+    "properties": {
+    "STATE":"Maine",
+    "TOTALPOP":1329923,
+    "PRISONPOP":3610,
+    "PERPRISON":"0.27%",
+    "ECVOTES":4,
+    "VEP":1060905,
+    "VOTEMARGIN":"2.70%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.802101,39.063946 ]
+    },
+    "properties": {
+    "STATE":"Maryland",
+    "TOTALPOP":5959902,
+    "PRISONPOP":38609,
+    "PERPRISON":"0.65%",
+    "ECVOTES":10,
+    "VEP":4176484,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.530106,42.230171 ]
+    },
+    "properties": {
+    "STATE":"Massachusetts",
+    "TOTALPOP":6742143,
+    "PRISONPOP":25904,
+    "PERPRISON":"0.38%",
+    "ECVOTES":11,
+    "VEP":4947241,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.536095,43.326618 ]
+    },
+    "properties": {
+    "STATE":"Michigan",
+    "TOTALPOP":9909600,
+    "PRISONPOP":71328,
+    "PERPRISON":"0.72%",
+    "ECVOTES":16,
+    "VEP":7423233,
+    "VOTEMARGIN":"0.30%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.900192,45.694454 ]
+    },
+    "properties": {
+    "STATE":"Minnesota",
+    "TOTALPOP":5450868,
+    "PRISONPOP":24872,
+    "PERPRISON":"0.46%",
+    "ECVOTES":10,
+    "VEP":3966155,
+    "VOTEMARGIN":"1.50%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.678696,32.741646 ]
+    },
+    "properties": {
+    "STATE":"Mississippi",
+    "TOTALPOP":2989192,
+    "PRISONPOP":37381,
+    "PERPRISON":"1.25%",
+    "ECVOTES":6,
+    "VEP":2176312,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.288368,38.456085 ]
+    },
+    "properties": {
+    "STATE":"Missouri",
+    "TOTALPOP":6059651,
+    "PRISONPOP":43810,
+    "PERPRISON":"0.72%",
+    "ECVOTES":10,
+    "VEP":4511812,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.454353,46.921925 ]
+    },
+    "properties": {
+    "STATE":"Montana",
+    "TOTALPOP":1023391,
+    "PRISONPOP":4899,
+    "PERPRISON":"0.48%",
+    "ECVOTES":3,
+    "VEP":804381,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.268082,41.12537 ]
+    },
+    "properties": {
+    "STATE":"Nebraska",
+    "TOTALPOP":1881259,
+    "PRISONPOP":7064,
+    "PERPRISON":"0.38%",
+    "ECVOTES":5,
+    "VEP":1349903,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.055374,38.313515 ]
+    },
+    "properties": {
+    "STATE":"Nevada",
+    "TOTALPOP":2839172,
+    "PRISONPOP":17514,
+    "PERPRISON":"0.62%",
+    "ECVOTES":6,
+    "VEP":1964097,
+    "VOTEMARGIN":"2.40%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.563896,43.452492 ]
+    },
+    "properties": {
+    "STATE":"New Hampshire",
+    "TOTALPOP":1327503,
+    "PRISONPOP":4409,
+    "PERPRISON":"0.33%",
+    "ECVOTES":4,
+    "VEP":1042102,
+    "VOTEMARGIN":"0.40%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.521011,40.298904 ]
+    },
+    "properties": {
+    "STATE":"New Jersey",
+    "TOTALPOP":8915456,
+    "PRISONPOP":56312,
+    "PERPRISON":"0.63%",
+    "ECVOTES":14,
+    "VEP":6042792,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.248482,34.840515 ]
+    },
+    "properties": {
+    "STATE":"New Mexico",
+    "TOTALPOP":2082669,
+    "PRISONPOP":17206,
+    "PERPRISON":"0.83%",
+    "ECVOTES":5,
+    "VEP":1456551,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.948051,42.165726 ]
+    },
+    "properties": {
+    "STATE":"New York",
+    "TOTALPOP":19697457,
+    "PRISONPOP":108139,
+    "PERPRISON":"0.55%",
+    "ECVOTES":29,
+    "VEP":13591250,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.806419,35.630066 ]
+    },
+    "properties": {
+    "STATE":"North Carolina",
+    "TOTALPOP":9940828,
+    "PRISONPOP":65982,
+    "PERPRISON":"0.66%",
+    "ECVOTES":15,
+    "VEP":7318442,
+    "VOTEMARGIN":"3.80%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.784012,47.528912 ]
+    },
+    "properties": {
+    "STATE":"North Dakota",
+    "TOTALPOP":736162,
+    "PRISONPOP":2348,
+    "PERPRISON":"0.32%",
+    "ECVOTES":3,
+    "VEP":565031,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764915,40.388783 ]
+    },
+    "properties": {
+    "STATE":"Ohio",
+    "TOTALPOP":11586941,
+    "PRISONPOP":71383,
+    "PERPRISON":"0.62%",
+    "ECVOTES":18,
+    "VEP":8737173,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.928917,35.565342 ]
+    },
+    "properties": {
+    "STATE":"Oklahoma",
+    "TOTALPOP":3875589,
+    "PRISONPOP":40597,
+    "PERPRISON":"1.05%",
+    "ECVOTES":7,
+    "VEP":2773970,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.070938,44.572021 ]
+    },
+    "properties": {
+    "STATE":"Oregon",
+    "TOTALPOP":3982267,
+    "PRISONPOP":6967,
+    "PERPRISON":"0.17%",
+    "ECVOTES":7,
+    "VEP":3012502,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.209755,40.590752 ]
+    },
+    "properties": {
+    "STATE":"Pennsylvania",
+    "TOTALPOP":12783977,
+    "PRISONPOP":106378,
+    "PERPRISON":"0.83%",
+    "ECVOTES":20,
+    "VEP":9701644,
+    "VOTEMARGIN":"1.20%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.51178,41.680893 ]
+    },
+    "properties": {
+    "STATE":"Rhode Island",
+    "TOTALPOP":1054491,
+    "PRISONPOP":3414,
+    "PERPRISON":"0.32%",
+    "ECVOTES":4,
+    "VEP":786033,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.945007,33.856892 ]
+    },
+    "properties": {
+    "STATE":"South Carolina",
+    "TOTALPOP":4834605,
+    "PRISONPOP":48801,
+    "PERPRISON":"1.01%",
+    "ECVOTES":9,
+    "VEP":3706769,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.438828,44.299782 ]
+    },
+    "properties": {
+    "STATE":"South Dakota",
+    "TOTALPOP":851058,
+    "PRISONPOP":6723,
+    "PERPRISON":"0.79%",
+    "ECVOTES":3,
+    "VEP":632989,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.692345,35.747845 ]
+    },
+    "properties": {
+    "STATE":"Tennessee",
+    "TOTALPOP":6548009,
+    "PRISONPOP":47035,
+    "PERPRISON":"0.72%",
+    "ECVOTES":11,
+    "VEP":4899384,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.563461,31.054487 ]
+    },
+    "properties": {
+    "STATE":"Texas",
+    "TOTALPOP":26956435,
+    "PRISONPOP":280922,
+    "PERPRISON":"1.04%",
+    "ECVOTES":38,
+    "VEP":17396296,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.862434,40.150032 ]
+    },
+    "properties": {
+    "STATE":"Utah",
+    "TOTALPOP":2948427,
+    "PRISONPOP":12009,
+    "PERPRISON":"0.41%",
+    "ECVOTES":6,
+    "VEP":1995987,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.710686,44.045876 ]
+    },
+    "properties": {
+    "STATE":"Vermont",
+    "TOTALPOP":626249,
+    "PRISONPOP":1596,
+    "PERPRISON":"0.25%",
+    "ECVOTES":3,
+    "VEP":494879,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.169968,37.769337 ]
+    },
+    "properties": {
+    "STATE":"Virginia",
+    "TOTALPOP":8310301,
+    "PRISONPOP":69420,
+    "PERPRISON":"0.84%",
+    "ECVOTES":13,
+    "VEP":6027262,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.490494,47.400902 ]
+    },
+    "properties": {
+    "STATE":"Washington",
+    "TOTALPOP":7073146,
+    "PRISONPOP":30753,
+    "PERPRISON":"0.43%",
+    "ECVOTES":12,
+    "VEP":5121782,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.954453,38.491226 ]
+    },
+    "properties": {
+    "STATE":"West Virginia",
+    "TOTALPOP":1846092,
+    "PRISONPOP":24108,
+    "PERPRISON":"1.31%",
+    "ECVOTES":5,
+    "VEP":1425962,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.616508,44.268543 ]
+    },
+    "properties": {
+    "STATE":"Wisconsin",
+    "TOTALPOP":5754798,
+    "PRISONPOP":39339,
+    "PERPRISON":"0.68%",
+    "ECVOTES":10,
+    "VEP":4288320,
+    "VOTEMARGIN":"1%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.30249,42.755966 ]
+    },
+    "properties": {
+    "STATE":"Wyoming",
+    "TOTALPOP":583029,
+    "PRISONPOP":3005,
+    "PERPRISON":"0.52%",
+    "ECVOTES":3,
+    "VEP":428283,
+    "VOTEMARGIN":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "STATE":"",
+    "TOTALPOP":317899153,
+    "PRISONPOP":2362722,
+    "PERPRISON":"0.74%",
+    "ECVOTES":null,
+    "VEP":null,
+    "VOTEMARGIN":""
+    }
+  }
+]
+}
