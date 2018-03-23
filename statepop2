@@ -125,21 +125,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "STATE":"DC",
-    "TOTALPOP":null,
-    "PRISONPOP":null,
-    "PERPRISON":"",
-    "ECVOTES":3,
-    "VEP":511463
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -81.686783,27.766279 ]
     },
     "properties": {
