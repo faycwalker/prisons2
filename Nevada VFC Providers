@@ -1,0 +1,3169 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.772929,36.900726 ]
+    },
+    "properties": {
+    "Address":"250 S IRVING ST",
+    "City":"BEATTY",
+    "State":"NV",
+    "Zipcode":"89003-0250",
+    "County":"Nye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.498585,37.307305 ]
+    },
+    "properties": {
+    "Address":"700 N. SPRING ST",
+    "City":"CALIENTE",
+    "State":"NV",
+    "Zipcode":"89008",
+    "County":"Lincoln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.964013,36.129665 ]
+    },
+    "properties": {
+    "Address":"1050 WEST GALLERIA DR",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89011",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.054487,36.06376919 ]
+    },
+    "properties": {
+    "Address":"1600 W SUNSET RD",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89014",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0491083,36.06376019 ]
+    },
+    "properties": {
+    "Address":"1490 W SUNSET RD",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89014",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.057532,36.062025 ]
+    },
+    "properties": {
+    "Address":"6301 MT VISTA ST",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89014",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.9906359,36.03642495 ]
+    },
+    "properties": {
+    "Address":"129 W LAKE MEAD PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89015",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.983061,36.03890077 ]
+    },
+    "properties": {
+    "Address":"98 E LAKE MEAD PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89015",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.486683,37.173654 ]
+    },
+    "properties": {
+    "Address":"845 E FARM RD",
+    "City":"AMARGOSA VALLEY",
+    "State":"NV",
+    "Zipcode":"89020",
+    "County":"Nye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.079399,36.806876 ]
+    },
+    "properties": {
+    "Address":"1301 BERTHA HOWE AVE",
+    "City":"MESQUITE",
+    "State":"NV",
+    "Zipcode":"89027",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1206608,36.19613935 ]
+    },
+    "properties": {
+    "Address":"2031 MCDANIEL ST",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1162193,36.19027944 ]
+    },
+    "properties": {
+    "Address":"1703 CIVIC CENTER DR",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.123736,36.212335 ]
+    },
+    "properties": {
+    "Address":"2225 S CIVIC CENTER DR",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1162929,36.19380171 ]
+    },
+    "properties": {
+    "Address":"1905 CIVIC CENTER DR",
+    "City":" N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1194932,36.20051876 ]
+    },
+    "properties": {
+    "Address":"2290 MCDANIEL ST",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1196811,36.20040708 ]
+    },
+    "properties": {
+    "Address":"2280 MCDANIEL ST",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1401469,36.18832888 ]
+    },
+    "properties": {
+    "Address":"47 W OWENS AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1162375,36.21752524 ]
+    },
+    "properties": {
+    "Address":"2315 E CHEYENNE AVE",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.123736,36.212335 ]
+    },
+    "properties": {
+    "Address":"2670 N LAS VEGAS BLVD",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1194932,36.20051876 ]
+    },
+    "properties": {
+    "Address":"2290 MCDANIEL ST",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.123736,36.212335 ]
+    },
+    "properties": {
+    "Address":"1905 N MCDANIEL ST",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.122124,36.19210881 ]
+    },
+    "properties": {
+    "Address":"1312 E TONOPAH AVE",
+    "City":"N LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1186631,36.1987815 ]
+    },
+    "properties": {
+    "Address":"2225 CIVIC CENTER DR.",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1164892,36.19071749 ]
+    },
+    "properties": {
+    "Address":"2465 REYNOLDS AVE",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89030",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.175569,36.22103 ]
+    },
+    "properties": {
+    "Address":"4040 N MLK BLVD",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89032",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1823824,36.23946074 ]
+    },
+    "properties": {
+    "Address":"3249 W CRAIG RD.",
+    "City":"NORTH LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89032",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.387147,37.790163 ]
+    },
+    "properties": {
+    "Address":"1005 MAIN ST",
+    "City":"PANACA",
+    "State":"NV",
+    "Zipcode":"89042",
+    "County":"Lincoln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9788454,36.19083634 ]
+    },
+    "properties": {
+    "Address":"1981 E CALVADA BLVD NORTH",
+    "City":"PAHRUMP",
+    "State":"NV",
+    "Zipcode":"89048",
+    "County":"Nye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9891451,36.19212376 ]
+    },
+    "properties": {
+    "Address":"1430 E CALVADA BLVD",
+    "City":"PAHRUMP",
+    "State":"NV",
+    "Zipcode":"89048",
+    "County":"Nye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.354689,38.438732 ]
+    },
+    "properties": {
+    "Address":"1 FRANKEE ST",
+    "City":"TONOPAH",
+    "State":"NV",
+    "Zipcode":"89049",
+    "County":"Nye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.107723,35.978891 ]
+    },
+    "properties": {
+    "Address":"2845 SIENA HEIGHTS DR",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1008701,35.98851455 ]
+    },
+    "properties": {
+    "Address":"10950 S EASTERN AVE",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1084996,35.998762 ]
+    },
+    "properties": {
+    "Address":"2510 W HORIZON RIDGE PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1175802,35.99880561 ]
+    },
+    "properties": {
+    "Address":"2621  W HORIZON RIDGE PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1259266,35.99866019 ]
+    },
+    "properties": {
+    "Address":"2847 ST ROSE PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1141846,36.00701666 ]
+    },
+    "properties": {
+    "Address":"10001 S EASTERN AVE",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.107723,35.978891 ]
+    },
+    "properties": {
+    "Address":"2350 W HORIZON PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0251844,36.04209 ]
+    },
+    "properties": {
+    "Address":"874 AMERICAN PACIFIC DR",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.107723,35.978891 ]
+    },
+    "properties": {
+    "Address":"3039 W HORIZON RIDGE",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1141846,36.00701666 ]
+    },
+    "properties": {
+    "Address":"10001 S EASTERN AVE",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89052",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.081952,36.036491 ]
+    },
+    "properties": {
+    "Address":"1505 WIGWAM PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89074",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0966518,36.03479336 ]
+    },
+    "properties": {
+    "Address":"2510 WIGWAM PKWY",
+    "City":"HENDERSON",
+    "State":"NV",
+    "Zipcode":"89074",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1159941,36.18612008 ]
+    },
+    "properties": {
+    "Address":"1440 N EASTERN AVE",
+    "City":" LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1065213,36.17367058 ]
+    },
+    "properties": {
+    "Address":"3050 E BONANZA RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0982122,36.17531633 ]
+    },
+    "properties": {
+    "Address":"701 N PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1181399,36.17395539 ]
+    },
+    "properties": {
+    "Address":"2354 E BONANZA RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0982122,36.17531633 ]
+    },
+    "properties": {
+    "Address":"701 N PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0982122,36.17531633 ]
+    },
+    "properties": {
+    "Address":"701 N PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0982122,36.17531633 ]
+    },
+    "properties": {
+    "Address":"701 N PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1160234,36.17707738 ]
+    },
+    "properties": {
+    "Address":"730 N. EASTERN AVE STE 100",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89101",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2032005,36.15176622 ]
+    },
+    "properties": {
+    "Address":"4750 W. OAKEY BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89102",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1865417,36.15892989 ]
+    },
+    "properties": {
+    "Address":"3301 W CHARLESTON BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89102",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1842301,36.15903891 ]
+    },
+    "properties": {
+    "Address":"3100 W CHARLESTON BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89102",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2080027,36.11218002 ]
+    },
+    "properties": {
+    "Address":"4270 S DECATUR BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89103",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2259802,36.11458088 ]
+    },
+    "properties": {
+    "Address":"5580 W. FLAMINGO RD.",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89103",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.241733,36.09980082 ]
+    },
+    "properties": {
+    "Address":"6843 W TROPICANA AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89103",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1323368,36.15890397 ]
+    },
+    "properties": {
+    "Address":"1219 E CHARLESTON BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89104",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1188369,36.14798652 ]
+    },
+    "properties": {
+    "Address":"2150 S EASTERN AVENUE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89104",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.118834,36.14736839 ]
+    },
+    "properties": {
+    "Address":"2212 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89104",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.109589,36.151596 ]
+    },
+    "properties": {
+    "Address":"2208 S NELLIS BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89104",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1503621,36.15665601 ]
+    },
+    "properties": {
+    "Address":"1200 S 4TH ST",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89104",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.162047,36.17713772 ]
+    },
+    "properties": {
+    "Address":"1706 W BONANZA RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.161672,36.181669 ]
+    },
+    "properties": {
+    "Address":"1799 MOUNT MARIAH DRIVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1808305,36.18300852 ]
+    },
+    "properties": {
+    "Address":"1060 N RANCHO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1621871,36.16433222 ]
+    },
+    "properties": {
+    "Address":"1524 PINTO LANE  3rd FLOOR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.161672,36.181669 ]
+    },
+    "properties": {
+    "Address":"1240 N MARTIN LUTHER KING BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1680082,36.16161111 ]
+    },
+    "properties": {
+    "Address":"2010 GOLDRING AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1654097,36.16792596 ]
+    },
+    "properties": {
+    "Address":"400 SHADOW LANE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89106",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2058754,36.16839465 ]
+    },
+    "properties": {
+    "Address":"280 S. DECATUR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89107",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2061579,36.17934982 ]
+    },
+    "properties": {
+    "Address":"633 N DECATUR BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89107",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2059305,36.16005879 ]
+    },
+    "properties": {
+    "Address":"4800 ALPINE PL",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89107",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2059142,36.16043893 ]
+    },
+    "properties": {
+    "Address":"939 S DECATUR BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89107",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368424,36.13397768 ]
+    },
+    "properties": {
+    "Address":"3061 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368617,36.13135591 ]
+    },
+    "properties": {
+    "Address":"3201 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368617,36.13135591 ]
+    },
+    "properties": {
+    "Address":"3201 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368424,36.13495236 ]
+    },
+    "properties": {
+    "Address":"3006 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368499,36.13284661 ]
+    },
+    "properties": {
+    "Address":"3121 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368438,36.13754093 ]
+    },
+    "properties": {
+    "Address":"2870 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1368613,36.13142625 ]
+    },
+    "properties": {
+    "Address":"3196 S MARYLAND PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89109",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0619739,36.16894268 ]
+    },
+    "properties": {
+    "Address":"420 N. NELLIS BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.06217,36.17293164 ]
+    },
+    "properties": {
+    "Address":"731 N NELLIS BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0766232,36.18103206 ]
+    },
+    "properties": {
+    "Address":"4440 E WASHINGTON AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0970406,36.17345793 ]
+    },
+    "properties": {
+    "Address":"3551 E BONANZA RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0804395,36.16502065 ]
+    },
+    "properties": {
+    "Address":"216 N LAMB BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.068291,36.17383437 ]
+    },
+    "properties": {
+    "Address":"4840 E BONANZA RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0619862,36.17116028 ]
+    },
+    "properties": {
+    "Address":"560 N NELLIS BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89110",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2792371,36.08587866 ]
+    },
+    "properties": {
+    "Address":"5575 S DURANGO",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89113",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2736249,36.05553977 ]
+    },
+    "properties": {
+    "Address":"8352 W WARM SPRINGS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89113",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.261607,36.059803 ]
+    },
+    "properties": {
+    "Address":"6980 S CIMARRON RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89113",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0784866,36.24051295 ]
+    },
+    "properties": {
+    "Address":"4348 E. CRAIG RD.",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89115",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0448372,36.24613059 ]
+    },
+    "properties": {
+    "Address":"4375 N LAS VEGAS BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89115",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2600444,36.14376359 ]
+    },
+    "properties": {
+    "Address":"7720 W SAHARA AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89117",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2428808,36.09101404 ]
+    },
+    "properties": {
+    "Address":"5380 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89118",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2425826,36.07499804 ]
+    },
+    "properties": {
+    "Address":"6252 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89118",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2423809,36.0634066 ]
+    },
+    "properties": {
+    "Address":"6870 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89118",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2426414,36.07845206 ]
+    },
+    "properties": {
+    "Address":"6070 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89118",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2428885,36.09208236 ]
+    },
+    "properties": {
+    "Address":"5320 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89118",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.119039,36.10781663 ]
+    },
+    "properties": {
+    "Address":"4475 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89119",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1234144,36.11458241 ]
+    },
+    "properties": {
+    "Address":"2121 E FLAMINGO RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89119",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1190079,36.10617984 ]
+    },
+    "properties": {
+    "Address":"4570 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89119",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1418793,36.11860775 ]
+    },
+    "properties": {
+    "Address":"3900 CAMBRIDGE AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89119",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1009194,36.08314012 ]
+    },
+    "properties": {
+    "Address":"5876 S PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89120",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1121417,36.10202504 ]
+    },
+    "properties": {
+    "Address":"4770 HARRISON DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89121",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1180315,36.10363083 ]
+    },
+    "properties": {
+    "Address":"2480 E TOMPKINS AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89121",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0926319,36.11536061 ]
+    },
+    "properties": {
+    "Address":"3570 E. FLAMINGO RD.",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89121",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2503222,36.20784977 ]
+    },
+    "properties": {
+    "Address":"2704 N TENAYA WAY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.264617,36.197198 ]
+    },
+    "properties": {
+    "Address":"2410 FIRE MESA ST",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2513411,36.21711941 ]
+    },
+    "properties": {
+    "Address":"3150 N TENAYA WAY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.264269,36.19830453 ]
+    },
+    "properties": {
+    "Address":"2050 MARINER DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2494116,36.21149884 ]
+    },
+    "properties": {
+    "Address":"2901 N TENAYA WAY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2490335,36.2115188 ]
+    },
+    "properties": {
+    "Address":"7180 CASCADE VALLEY CT",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.264617,36.197198 ]
+    },
+    "properties": {
+    "Address":"8551 W LAKE MEAD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2561354,36.19603248 ]
+    },
+    "properties": {
+    "Address":"7469 W. LAKE MEAD BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2460798,36.20337229 ]
+    },
+    "properties": {
+    "Address":"7200 SMOKE RANCH ROAD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89128",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2604725,36.2225772 ]
+    },
+    "properties": {
+    "Address":"3424 N BUFFALO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89129",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2194677,36.22539282 ]
+    },
+    "properties": {
+    "Address":"3630 N RANCHO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89130",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2432903,36.0453835 ]
+    },
+    "properties": {
+    "Address":"7875 S RAINBOW BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89139",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0634309,36.14443984 ]
+    },
+    "properties": {
+    "Address":"5105 E SAHARA AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89142",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.322097,36.178274 ]
+    },
+    "properties": {
+    "Address":"653 N TOWN CTR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89144",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3196874,36.18594499 ]
+    },
+    "properties": {
+    "Address":"10105 BANBURRY CROSS DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89144",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3196874,36.18594499 ]
+    },
+    "properties": {
+    "Address":"10105 BANBURRY CROSS DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89144",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.259932,36.17593071 ]
+    },
+    "properties": {
+    "Address":"221 N BUFFALO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89145",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2911103,36.16353966 ]
+    },
+    "properties": {
+    "Address":"851 S RAMPART BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89145",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2249973,36.13832799 ]
+    },
+    "properties": {
+    "Address":"2810 S JONES BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89146",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2228983,36.15915848 ]
+    },
+    "properties": {
+    "Address":"5701 W CHARLESTON BLVD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89146",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2202837,36.14424227 ]
+    },
+    "properties": {
+    "Address":"5781 W SAHARA AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89146",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2433614,36.15085937 ]
+    },
+    "properties": {
+    "Address":"1725 S RAINBOW",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89146",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2430547,36.15909732 ]
+    },
+    "properties": {
+    "Address":"6771 W. CHARLESTON BLVD. SUITE C",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89146",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2791552,36.10192805 ]
+    },
+    "properties": {
+    "Address":"4785 S DURANGO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89147",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2609683,36.10800337 ]
+    },
+    "properties": {
+    "Address":"4375 S BUFFALO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89147",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2974605,36.08372827 ]
+    },
+    "properties": {
+    "Address":"5775 S FORT APACHE RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89148",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2974496,36.08415578 ]
+    },
+    "properties": {
+    "Address":"5751 S FORT APACHE RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89148",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.297449,36.06307 ]
+    },
+    "properties": {
+    "Address":"9091 W POST RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89148",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2948886,36.07024032 ]
+    },
+    "properties": {
+    "Address":"9260 W. SUNSET RD STE 205",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89148",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.298137,36.273741 ]
+    },
+    "properties": {
+    "Address":"6850 N DURANGO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89149",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.298137,36.273741 ]
+    },
+    "properties": {
+    "Address":"6850 N DURANGO DRIVE SUITE 306",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89149",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.298137,36.273741 ]
+    },
+    "properties": {
+    "Address":"7061 GRAND MONTECITO PKWY",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89149",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.298137,36.273741 ]
+    },
+    "properties": {
+    "Address":"6850 N DURANGO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89149",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.298137,36.273741 ]
+    },
+    "properties": {
+    "Address":"6850 N. DURANGO DR",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89149",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0982122,36.17531633 ]
+    },
+    "properties": {
+    "Address":"701 N PECOS RD",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89156",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1187663,36.1233444 ]
+    },
+    "properties": {
+    "Address":"3650 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89169",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1185219,36.12941307 ]
+    },
+    "properties": {
+    "Address":"3315 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89169",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1185431,36.12889108 ]
+    },
+    "properties": {
+    "Address":"3343 S EASTERN AVE",
+    "City":"LAS VEGAS",
+    "State":"NV",
+    "Zipcode":"89169",
+    "County":"Clark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8680471,39.25700998 ]
+    },
+    "properties": {
+    "Address":"297 11TH ST E",
+    "City":"ELY",
+    "State":"NV",
+    "Zipcode":"89301",
+    "County":"White Pine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8597559,39.25604124 ]
+    },
+    "properties": {
+    "Address":"1500 AVE H",
+    "City":"ELY",
+    "State":"NV",
+    "Zipcode":"89301",
+    "County":"White Pine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9607408,39.51067105 ]
+    },
+    "properties": {
+    "Address":"250 S MAIN ST",
+    "City":"EUREKA",
+    "State":"NV",
+    "Zipcode":"89316",
+    "County":"Eureka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9607408,39.51067105 ]
+    },
+    "properties": {
+    "Address":"250 S MAIN STREET",
+    "City":"EUREKA",
+    "State":"NV",
+    "Zipcode":"89316",
+    "County":"Eureka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.5829312,39.26105355 ]
+    },
+    "properties": {
+    "Address":"5 PINE CONE RD",
+    "City":"DAYTON",
+    "State":"NV",
+    "Zipcode":"89403",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7829423,39.47775624 ]
+    },
+    "properties": {
+    "Address":"485 WEST B ST",
+    "City":"FALLON",
+    "State":"NV",
+    "Zipcode":"89406",
+    "County":"Churchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.334596,39.580791 ]
+    },
+    "properties": {
+    "Address":"1077 NEW RIVER PKWY",
+    "City":"FALLON",
+    "State":"NV",
+    "Zipcode":"89406",
+    "County":"Churchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7653398,39.47511802 ]
+    },
+    "properties": {
+    "Address":"801 E WILLIAMS AVE",
+    "City":"FALLON",
+    "State":"NV",
+    "Zipcode":"89406",
+    "County":"Churchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7933824,39.47611173 ]
+    },
+    "properties": {
+    "Address":"50 COMMERCIAL WAY",
+    "City":"FALLON",
+    "State":"NV",
+    "Zipcode":"89406",
+    "County":"Churchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7694809,39.47510993 ]
+    },
+    "properties": {
+    "Address":"560 E WILLIAMS AVE",
+    "City":"FALLON",
+    "State":"NV",
+    "Zipcode":"89406",
+    "County":"Churchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.238941,39.60645392 ]
+    },
+    "properties": {
+    "Address":"555 E MAIN ST",
+    "City":"FERNLEY",
+    "State":"NV",
+    "Zipcode":"89408",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.160701,39.588476 ]
+    },
+    "properties": {
+    "Address":"1260 NEVADA PACIFIC BLVD",
+    "City":"FERNLEY",
+    "State":"NV",
+    "Zipcode":"89408",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2182593,39.60880036 ]
+    },
+    "properties": {
+    "Address":"1343 W NEWLANDS DR",
+    "City":"FERNLEY",
+    "State":"NV",
+    "Zipcode":"89408",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7436106,38.9327773 ]
+    },
+    "properties": {
+    "Address":"1329 WATERLOO LN",
+    "City":"GARDNERVILLE",
+    "State":"NV",
+    "Zipcode":"89410",
+    "County":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.638389,38.577017 ]
+    },
+    "properties": {
+    "Address":"331 1ST ST",
+    "City":"HAWTHORNE",
+    "State":"NV",
+    "Zipcode":"89415",
+    "County":"Mineral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.623227,40.362481 ]
+    },
+    "properties": {
+    "Address":"535 WESTERN AVE",
+    "City":"LOVELOCK",
+    "State":"NV",
+    "Zipcode":"89419",
+    "County":"Pershing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.483842,40.17676453 ]
+    },
+    "properties": {
+    "Address":"855 6TH ST",
+    "City":"LOVELOCK",
+    "State":"NV",
+    "Zipcode":"89419",
+    "County":"Pershing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.784319,38.96359438 ]
+    },
+    "properties": {
+    "Address":"925 IRONWOOD DR",
+    "City":"MINDEN",
+    "State":"NV",
+    "Zipcode":"89423",
+    "County":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7737684,38.95472747 ]
+    },
+    "properties": {
+    "Address":"1649 LUCERNE ST",
+    "City":"MINDEN",
+    "State":"NV",
+    "Zipcode":"89423",
+    "County":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.776841,38.95624163 ]
+    },
+    "properties": {
+    "Address":"1701 COUNTY RD",
+    "City":"MINDEN",
+    "State":"NV",
+    "Zipcode":"89423",
+    "County":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2648924,39.40177844 ]
+    },
+    "properties": {
+    "Address":"3595 HIGHWAY 50 W",
+    "City":"SILVER SPRINGS",
+    "State":"NV",
+    "Zipcode":"89429",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7724624,39.54553679 ]
+    },
+    "properties": {
+    "Address":"2244 ODDIE BLVD",
+    "City":"SPARKS",
+    "State":"NV",
+    "Zipcode":"89431",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7804704,39.58537046 ]
+    },
+    "properties": {
+    "Address":"5295 SUN VALLEY BLVD",
+    "City":"SUN VALLEY",
+    "State":"NV",
+    "Zipcode":"89433",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.707234,39.602268 ]
+    },
+    "properties": {
+    "Address":"5070 ION DR",
+    "City":"SPARKS",
+    "State":"NV",
+    "Zipcode":"89436",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.707234,39.602268 ]
+    },
+    "properties": {
+    "Address":"5975 S. LOS ALTOS PKWY",
+    "City":"SPARKS",
+    "State":"NV",
+    "Zipcode":"89436",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.5066024,38.73134092 ]
+    },
+    "properties": {
+    "Address":"3919 CARTER DR",
+    "City":"WELLINGTON",
+    "State":"NV",
+    "Zipcode":"89444",
+    "County":"Douglas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7289718,40.9709693 ]
+    },
+    "properties": {
+    "Address":"50 E HASKELL ST",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7285122,40.9715842 ]
+    },
+    "properties": {
+    "Address":"118 E HASKELL ST",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.731382,40.97494431 ]
+    },
+    "properties": {
+    "Address":"310 E FOURTH ST",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7285122,40.9715842 ]
+    },
+    "properties": {
+    "Address":"118 E. HASKELL ST.",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7285122,40.9715842 ]
+    },
+    "properties": {
+    "Address":"118 E HASKELL ST",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7285122,40.9715842 ]
+    },
+    "properties": {
+    "Address":"118 E HASKELL",
+    "City":"WINNEMUCCA",
+    "State":"NV",
+    "Zipcode":"89445",
+    "County":"Humboldt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.1623113,38.99517593 ]
+    },
+    "properties": {
+    "Address":"26 NEVIN WAY",
+    "City":"YERINGTON",
+    "State":"NV",
+    "Zipcode":"89447",
+    "County":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9538718,39.25087627 ]
+    },
+    "properties": {
+    "Address":"880 ALDER AVE",
+    "City":"INCLINE VILLAGE",
+    "State":"NV",
+    "Zipcode":"89451",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7956735,39.52480462 ]
+    },
+    "properties": {
+    "Address":"75 PRINGLE WAY",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8031726,39.51511078 ]
+    },
+    "properties": {
+    "Address":"1055 S WELLS AVE",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7983596,39.52737308 ]
+    },
+    "properties": {
+    "Address":"901 E SECOND ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7803478,39.48807739 ]
+    },
+    "properties": {
+    "Address":"3915 NEIL RD",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7965497,39.52467398 ]
+    },
+    "properties": {
+    "Address":"1155 MILL ST.",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8027244,39.52467248 ]
+    },
+    "properties": {
+    "Address":"730 WILLOW ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.80414,39.50764811 ]
+    },
+    "properties": {
+    "Address":"1699 S VIRGINIA ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8005828,39.52832106 ]
+    },
+    "properties": {
+    "Address":"21 LOCUST ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7995681,39.52646 ]
+    },
+    "properties": {
+    "Address":"845 AITKEN ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89502",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8190591,39.53192367 ]
+    },
+    "properties": {
+    "Address":"645 N ARLINGTON AVE",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8229331,39.53098876 ]
+    },
+    "properties": {
+    "Address":"595 BELL ST.",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8225583,39.52220457 ]
+    },
+    "properties": {
+    "Address":"40 WINTER ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8197642,39.53239801 ]
+    },
+    "properties": {
+    "Address":"343 ELM ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8185435,39.52593039 ]
+    },
+    "properties": {
+    "Address":"401 W 2ND ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8222635,39.52974437 ]
+    },
+    "properties": {
+    "Address":"580 W. 5TH ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89503",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8052166,39.49076799 ]
+    },
+    "properties": {
+    "Address":"3639 WARREN WAY",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89509",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7987225,39.49047911 ]
+    },
+    "properties": {
+    "Address":"3596 BAKER LN",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89509",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.872972,39.401763 ]
+    },
+    "properties": {
+    "Address":"5301 RENO CORPORATE DR",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89511",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.872972,39.401763 ]
+    },
+    "properties": {
+    "Address":"18653 WEDGE PKWY",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89511",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7769338,39.45204567 ]
+    },
+    "properties": {
+    "Address":"8040 S VIRGINIA ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89511",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.872972,39.401763 ]
+    },
+    "properties": {
+    "Address":"5575 KIETZKE LN",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89511",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.872972,39.401763 ]
+    },
+    "properties": {
+    "Address":"15 MCCABE DR",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89511",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8032343,39.53851622 ]
+    },
+    "properties": {
+    "Address":"1001 E 9TH ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89512",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8087613,39.53009303 ]
+    },
+    "properties": {
+    "Address":"335 RECORD ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89512",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.800697,39.554354 ]
+    },
+    "properties": {
+    "Address":"ATTN: CATHOLIC CHARITIES",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89512",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.686134,39.385102 ]
+    },
+    "properties": {
+    "Address":"10581 DOUBLE R BLVD",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89521",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.686134,39.385102 ]
+    },
+    "properties": {
+    "Address":"10467 DOUBLE R BLVD",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89521",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.942544,39.548942 ]
+    },
+    "properties": {
+    "Address":"6255 SHARLANDS AVE",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89523",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8710531,39.53342512 ]
+    },
+    "properties": {
+    "Address":"6350 MAE ANNE AVE",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89523",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8200585,39.54523238 ]
+    },
+    "properties": {
+    "Address":"1664 N VIRGINIA ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89557",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8200585,39.54523238 ]
+    },
+    "properties": {
+    "Address":"1664 N VIRGINIA ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89557-0169",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8200585,39.54523238 ]
+    },
+    "properties": {
+    "Address":"1664 N VIRGINIA ST",
+    "City":"RENO",
+    "State":"NV",
+    "Zipcode":"89557-0316",
+    "County":"Washoe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.844065,39.151902 ]
+    },
+    "properties": {
+    "Address":"1475 MEDICAL PARKWAY",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89703",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7728494,39.17092989 ]
+    },
+    "properties": {
+    "Address":"1200 N MOUNTAIN ST",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89703",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7511468,39.19033561 ]
+    },
+    "properties": {
+    "Address":"3325 RESEARCH WAY",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89706",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7581204,39.17405894 ]
+    },
+    "properties": {
+    "Address":"900 E LONG ST",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89706",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7581204,39.17405894 ]
+    },
+    "properties": {
+    "Address":"900 E. LONG ST",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89706",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7713587,39.16457902 ]
+    },
+    "properties": {
+    "Address":"618 WEST MUSSER ST",
+    "City":"CARSON CITY",
+    "State":"NV",
+    "Zipcode":"89706",
+    "County":"Carson City (city)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.843986,41.199647 ]
+    },
+    "properties": {
+    "Address":"1995 ERRECART BLVD",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.843986,41.199647 ]
+    },
+    "properties": {
+    "Address":"1995 ERRECART BLVD",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.7670263,40.84034591 ]
+    },
+    "properties": {
+    "Address":"850 ELM ST",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.7577432,40.84118558 ]
+    },
+    "properties": {
+    "Address":"762 14TH ST",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.843986,41.199647 ]
+    },
+    "properties": {
+    "Address":"1995 ERRECART BLVD",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.733912,40.82575683 ]
+    },
+    "properties": {
+    "Address":"1816 PINION RD",
+    "City":"ELKO",
+    "State":"NV",
+    "Zipcode":"89801",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9321458,40.64339144 ]
+    },
+    "properties": {
+    "Address":"825 N 2ND ST",
+    "City":"BATTLE MOUNTAIN",
+    "State":"NV",
+    "Zipcode":"89820",
+    "County":"Lander"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9358368,40.63651034 ]
+    },
+    "properties": {
+    "Address":"650 ALTENBURG AVE",
+    "City":"BATTLE MOUNTAIN",
+    "State":"NV",
+    "Zipcode":"89820",
+    "County":"Lander"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.060574,40.719369 ]
+    },
+    "properties": {
+    "Address":"310 MEMORY LN",
+    "City":"CARLIN",
+    "State":"NV",
+    "Zipcode":"89822",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.082752,41.792055 ]
+    },
+    "properties": {
+    "Address":"950 LADY LUCK DRIVE",
+    "City":"JACKPOT",
+    "State":"NV",
+    "Zipcode":"89825",
+    "County":"Elko"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.053292,40.736556 ]
+    },
+    "properties": {
+    "Address":"925 WELLS AVE",
+    "City":"W WENDOVER",
+    "State":"NV",
+    "Zipcode":"89883",
+    "County":"Elko"
+    }
+  }
+]
+}
